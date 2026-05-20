@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1779285996874,1008,HTTP Request,200,OK,Thread Group 1-1,text,true,,5384,128,3,3,https://the-internet.herokuapp.com/,1007,0,872
+1779285997272,611,HTTP Request,200,OK,Thread Group 1-2,text,true,,5384,128,3,3,https://the-internet.herokuapp.com/,610,0,475
+1779285997887,165,Login Request,404,Not Found,Thread Group 1-1,text,false,,1327,267,3,3,https://the-internet.herokuapp.com/login,165,0,0
+1779285997887,165,Login Request,404,Not Found,Thread Group 1-2,text,false,,1327,251,3,3,https://the-internet.herokuapp.com/login,165,0,0
+1779285998056,125,HTTP Request,200,OK,Thread Group 1-2,text,true,,5384,128,3,3,https://the-internet.herokuapp.com/,124,0,0
+1779285998058,123,HTTP Request,200,OK,Thread Group 1-1,text,true,,5384,128,3,3,https://the-internet.herokuapp.com/,122,0,0
+1779285998182,125,Login Request,404,Not Found,Thread Group 1-1,text,false,,1327,267,4,4,https://the-internet.herokuapp.com/login,125,0,0
+1779285998182,125,Login Request,404,Not Found,Thread Group 1-2,text,false,,1327,251,4,4,https://the-internet.herokuapp.com/login,125,0,0
+1779285997775,551,HTTP Request,200,OK,Thread Group 1-3,text,true,,5384,128,4,4,https://the-internet.herokuapp.com/,550,0,425
+1779285998310,124,HTTP Request,200,OK,Thread Group 1-2,text,true,,5384,128,4,4,https://the-internet.herokuapp.com/,124,0,0
+1779285998310,125,HTTP Request,200,OK,Thread Group 1-1,text,true,,5384,128,4,4,https://the-internet.herokuapp.com/,125,0,0
+1779285998327,126,Login Request,404,Not Found,Thread Group 1-3,text,false,,1327,267,4,4,https://the-internet.herokuapp.com/login,126,0,0
+1779285998436,123,Login Request,404,Not Found,Thread Group 1-2,text,false,,1327,251,4,4,https://the-internet.herokuapp.com/login,122,0,0
+1779285998437,122,Login Request,404,Not Found,Thread Group 1-1,text,false,,1327,267,4,4,https://the-internet.herokuapp.com/login,122,0,0
+1779285998456,126,HTTP Request,200,OK,Thread Group 1-3,text,true,,5384,128,2,2,https://the-internet.herokuapp.com/,126,0,0
+1779285998583,129,Login Request,404,Not Found,Thread Group 1-3,text,false,,1319,267,2,2,https://the-internet.herokuapp.com/login,129,0,0
+1779285998273,513,HTTP Request,200,OK,Thread Group 1-4,text,true,,5376,128,3,3,https://the-internet.herokuapp.com/,512,0,390
+1779285998714,126,HTTP Request,200,OK,Thread Group 1-3,text,true,,5376,128,3,3,https://the-internet.herokuapp.com/,125,0,0
+1779285998787,121,Login Request,404,Not Found,Thread Group 1-4,text,false,,1319,251,3,3,https://the-internet.herokuapp.com/login,121,0,0
+1779285998841,126,Login Request,404,Not Found,Thread Group 1-3,text,false,,1319,251,3,3,https://the-internet.herokuapp.com/login,126,0,0
+1779285998910,121,HTTP Request,200,OK,Thread Group 1-4,text,true,,5376,128,2,2,https://the-internet.herokuapp.com/,120,0,0
+1779285999032,125,Login Request,404,Not Found,Thread Group 1-4,text,false,,1319,251,2,2,https://the-internet.herokuapp.com/login,125,0,0
+1779285998775,504,HTTP Request,200,OK,Thread Group 1-5,text,true,,5376,128,3,3,https://the-internet.herokuapp.com/,504,0,372
+1779285999160,120,HTTP Request,200,OK,Thread Group 1-4,text,true,,5376,128,3,3,https://the-internet.herokuapp.com/,120,0,0
+1779285999280,125,Login Request,404,Not Found,Thread Group 1-5,text,false,,1319,267,3,3,https://the-internet.herokuapp.com/login,125,0,0
+1779285999282,123,Login Request,404,Not Found,Thread Group 1-4,text,false,,1319,267,3,3,https://the-internet.herokuapp.com/login,123,0,0
+1779285999408,122,HTTP Request,200,OK,Thread Group 1-5,text,true,,5376,128,2,2,https://the-internet.herokuapp.com/,121,0,0
+1779285999531,121,Login Request,404,Not Found,Thread Group 1-5,text,false,,1319,267,2,2,https://the-internet.herokuapp.com/login,121,0,0
+1779285999654,128,HTTP Request,200,OK,Thread Group 1-5,text,true,,5372,128,3,3,https://the-internet.herokuapp.com/,127,0,0
+1779285999272,510,HTTP Request,200,OK,Thread Group 1-6,text,true,,5372,128,3,3,https://the-internet.herokuapp.com/,509,0,381
+1779285999783,216,Login Request,404,Not Found,Thread Group 1-6,text,false,,1315,251,3,3,https://the-internet.herokuapp.com/login,216,0,0
+1779285999783,216,Login Request,404,Not Found,Thread Group 1-5,text,false,,1315,251,3,3,https://the-internet.herokuapp.com/login,216,0,0
+1779286000000,204,HTTP Request,200,OK,Thread Group 1-6,text,true,,5372,128,2,2,https://the-internet.herokuapp.com/,203,0,0
+1779286000206,124,Login Request,404,Not Found,Thread Group 1-6,text,false,,1315,251,3,3,https://the-internet.herokuapp.com/login,124,0,0
+1779285999775,674,HTTP Request,200,OK,Thread Group 1-7,text,true,,5372,128,3,3,https://the-internet.herokuapp.com/,673,0,555
+1779286000332,124,HTTP Request,200,OK,Thread Group 1-6,text,true,,5372,128,3,3,https://the-internet.herokuapp.com/,123,0,0
+1779286000450,124,Login Request,404,Not Found,Thread Group 1-7,text,false,,1315,267,3,3,https://the-internet.herokuapp.com/login,124,0,0
+1779286000457,123,Login Request,404,Not Found,Thread Group 1-6,text,false,,1315,251,3,3,https://the-internet.herokuapp.com/login,123,0,0
+1779286000576,120,HTTP Request,200,OK,Thread Group 1-7,text,true,,5376,128,2,2,https://the-internet.herokuapp.com/,119,0,0
+1779286000272,522,HTTP Request,200,OK,Thread Group 1-8,text,true,,5376,128,3,3,https://the-internet.herokuapp.com/,522,0,386
+1779286000697,124,Login Request,404,Not Found,Thread Group 1-7,text,false,,1319,267,3,3,https://the-internet.herokuapp.com/login,124,0,0
+1779286000796,132,Login Request,404,Not Found,Thread Group 1-8,text,false,,1319,267,3,3,https://the-internet.herokuapp.com/login,132,0,0
+1779286000822,126,HTTP Request,200,OK,Thread Group 1-7,text,true,,5376,128,3,3,https://the-internet.herokuapp.com/,125,0,0
+1779286000929,127,HTTP Request,200,OK,Thread Group 1-8,text,true,,5376,128,3,3,https://the-internet.herokuapp.com/,127,0,0
+1779286000949,118,Login Request,404,Not Found,Thread Group 1-7,text,false,,1319,267,3,3,https://the-internet.herokuapp.com/login,118,0,0
+1779286001058,127,Login Request,404,Not Found,Thread Group 1-8,text,false,,1319,251,2,2,https://the-internet.herokuapp.com/login,127,0,0
+1779286000768,506,HTTP Request,200,OK,Thread Group 1-9,text,true,,5376,128,3,3,https://the-internet.herokuapp.com/,505,0,383
+1779286001188,125,HTTP Request,200,OK,Thread Group 1-8,text,true,,5376,128,3,3,https://the-internet.herokuapp.com/,125,0,0
+1779286001274,124,Login Request,404,Not Found,Thread Group 1-9,text,false,,1319,251,3,3,https://the-internet.herokuapp.com/login,124,0,0
+1779286001314,125,Login Request,404,Not Found,Thread Group 1-8,text,false,,1319,267,3,3,https://the-internet.herokuapp.com/login,124,0,0
+1779286001400,125,HTTP Request,200,OK,Thread Group 1-9,text,true,,5376,128,2,2,https://the-internet.herokuapp.com/,125,0,0
+1779286001526,123,Login Request,404,Not Found,Thread Group 1-9,text,false,,1319,267,2,2,https://the-internet.herokuapp.com/login,123,0,0
+1779286001267,482,HTTP Request,200,OK,Thread Group 1-10,text,true,,5376,128,2,2,https://the-internet.herokuapp.com/,481,0,362
+1779286001650,123,HTTP Request,200,OK,Thread Group 1-9,text,true,,5376,128,2,2,https://the-internet.herokuapp.com/,122,0,0
+1779286001750,120,Login Request,404,Not Found,Thread Group 1-10,text,false,,1319,251,2,2,https://the-internet.herokuapp.com/login,120,0,0
+1779286001773,123,Login Request,404,Not Found,Thread Group 1-9,text,false,,1319,251,2,2,https://the-internet.herokuapp.com/login,123,0,0
+1779286001872,120,HTTP Request,200,OK,Thread Group 1-10,text,true,,5376,128,1,1,https://the-internet.herokuapp.com/,119,0,0
+1779286001992,160,Login Request,404,Not Found,Thread Group 1-10,text,false,,1319,267,1,1,https://the-internet.herokuapp.com/login,160,0,0
+1779286002154,199,HTTP Request,200,OK,Thread Group 1-10,text,true,,5376,128,1,1,https://the-internet.herokuapp.com/,198,0,0
+1779286002354,121,Login Request,404,Not Found,Thread Group 1-10,text,false,,1319,251,1,1,https://the-internet.herokuapp.com/login,121,0,0
