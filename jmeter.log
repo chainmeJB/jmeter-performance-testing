@@ -40,3 +40,14 @@
 2026-05-20 15:29:18,304 INFO o.a.j.r.ClassFinder: Will scan jar C:\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-casutg-3.1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
 2026-05-20 15:29:18,379 INFO o.j.r.JARSourceHTTP: Found cached repo
 2026-05-20 15:29:18,534 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-functions=2.2, jpgc-casutg=3.1.1, jpgc-dummy=0.4, jpgc-ffw=2.0, jpgc-fifo=0.2, jpgc-perfmon=2.1, jpgc-plugins-manager=1.12, jpgc-tst=2.6, jmeter-core=5.6.3, jmeter-ftp=5.6.3, jmeter-http=5.6.3, jmeter-jdbc=5.6.3, jmeter-jms=5.6.3, jmeter-junit=5.6.3, jmeter-java=5.6.3, jmeter-ldap=5.6.3, jmeter-mail=5.6.3, jmeter-mongodb=5.6.3, jmeter-native=5.6.3, jmeter-tcp=5.6.3, jmeter-components=5.6.3, jpgc-standard=2.0]
+2026-05-20 15:43:08,446 INFO o.a.j.s.FileServer: Default base='C:\Users\victoria\PycharmProjects\jmeter-performance-testing'
+2026-05-20 15:43:08,448 INFO o.a.j.s.FileServer: Set new base='C:\Users\victoria\PycharmProjects\jmeter-performance-testing\test-plans'
+2026-05-20 15:43:08,737 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2026-05-20 15:43:08,742 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2026-05-20 15:43:08,744 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2026-05-20 15:44:14,475 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-05-20 15:44:14,475 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-05-20 15:44:14,475 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-05-20 15:44:14,475 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-05-20 15:44:14,475 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2026-05-20 15:44:14,475 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
